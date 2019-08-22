@@ -78,7 +78,7 @@ public class PdfLinkConverter {
 		frame.getContentPane().add(button);
 		
 		JLabel lblHoeGebruikIk = new JLabel("Hoe gebruik ik dit programma?");
-		lblHoeGebruikIk.setBounds(63, 376, 175, 14);
+		lblHoeGebruikIk.setBounds(63, 376, 276, 14);
 		frame.getContentPane().add(lblHoeGebruikIk);
 		
 		JTextPane txtpnInvoiceConverter = new JTextPane();
